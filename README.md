@@ -1,3 +1,8 @@
+> **포크 안내**
+> - 원본: [chrisryugj/korean-law-mcp](https://github.com/chrisryugj/korean-law-mcp) (작성자 chrisryugj, MIT 라이선스). 원본 저작권 표기와 LICENSE, NOTICE는 그대로 유지합니다.
+> - 수정: [sandy-seize](https://github.com/sandy-seize) (2026-11-23 포크). 수정 내역은 아래 `CHANGES-sandy.md` 에 기록합니다.
+> - 원본 업데이트를 받으려면 GitHub 의 Sync fork 를 사용합니다.
+
 # Korean Law MCP
 
 **법제처 42개 API를 10개 도구로.** 법령·판례·행정규칙·자치법규·조약·해석례(국세청 포함)를 AI 어시스턴트와 터미널에서 조회하고, **AI 답변의 법령 인용을 원문과 대조**합니다.
